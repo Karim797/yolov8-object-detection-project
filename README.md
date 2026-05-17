@@ -121,8 +121,7 @@ Prediction examples are included in the screenshots folder.
 ---
 
 ## Demo Video
-Add your demo video link here.
-
+roject Demo Video
 ---
 
 ## Author
